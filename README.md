@@ -11,7 +11,7 @@ Simple and responsive user interface.
 
 Technologies Used:
 
-Frontend: HTML, CSS, JavaScript
+Frontend: JFrame in JAVA (Apache NetBeans)
 Backend: Java (or mention your backend language/framework, e.g., Spring Boot if applicable)
 Networking: DNS Lookup, Java InetAddress API
 
